@@ -36,3 +36,195 @@
     transform: rotate(360deg);
   }
 }
+
+#inputt{
+  color: blue;
+}
+#section{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 8%;
+}
+#image-source img{
+  width: 80%;
+}
+#big-paragraph{
+  font-weight: 500;
+  font-size: 300%;
+}
+#jump-start{
+  font-weight: 650;
+  font-size: medium;
+}
+#navbarSupportedContent li a{
+  font-weight: 500;
+  font-size: medium;
+
+}
+#small-p{
+  font-weight: 500;
+  font-size: large;
+}
+#blue{
+  background-color: blue;
+  color: white;
+}
+#sign-in{
+  background-color: white;
+  color: black;
+}
+#get-started{
+  background-color: blue;
+  color: white;
+}
+#Explore{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+  margin-bottom: 4%;
+}
+#h1{
+  width: 10%;
+}
+#h3{
+  width: 77%;
+}
+#h3 h1{
+  font-weight: 500;
+  font-size: 300%;
+}
+#h3 p{
+  font-weight: 400;
+  font-size: 150%;
+}
+#h3 button{
+  background-color: orchid;
+  color: black;
+  width: 17%;
+  margin-bottom: 2%;
+}
+#table-1{
+  margin: 5%;
+}
+#buy-btc{
+  background-color: grey;
+  color: white;
+}
+#buy-ethereum{
+  background-color: grey;
+  color: white;
+}
+#buy-cardano{
+  background-color: grey;
+  color: white;
+}
+#buy-solana{
+  background-color: grey;
+  color: white;
+}
+#shadow-box{
+  display: flex;
+  justify-content: space-between;
+  margin: 5%;
+}
+#Earn{
+  font-weight: 500;
+  font-size: 200%;
+}
+#create{
+  text-align: center;
+}
+#coinbase{
+  display: flex;
+  justify-content: space-between;
+  margin: 5%;
+}
+#coin-image{
+  width: 80%;
+}
+#platform{
+  text-align: center;
+}
+#three-section{
+  display: flex;
+  justify-content: space-between;
+  margin: 10%;
+}
+#numbers{
+  display: flex;
+  justify-content: space-between;
+  background-color: blueviolet;
+  color: white;
+}
+#numbers-one{
+  margin: 5%;
+}
+#numbers-one h1{
+  font-size: 350%;
+}
+#numbers-two{
+  margin: 5%;
+}
+#numbers-two h1{
+  font-size: 350%;
+}
+#numbers-three{
+  margin: 5%;
+}
+#numbers-three h1{
+  font-size: 350%;
+}
+#gett-started{
+  text-align: center;
+  margin: 7%;
+}
+#gett-started h1{
+  font-size: 260%;
+}
+#account{
+  display: flex;
+  justify-content: space-between;
+  margin: 12%;
+}
+#image{
+  display: flex;
+  justify-content: space-between;
+}
+#image button{
+  background-color: blue;
+  color: white;
+}
+#single-p{
+  margin: 8%;
+  font-size: small;
+}
+#four-sections{
+  display: flex;
+  justify-content: space-between;
+  margin: 8%;
+}
+#four-sections h3{
+  color: blue;
+  font-size: 150%;
+  font-weight: 700;
+  margin-bottom: 15%;
+}
+#dropdownMenuButton1{
+  background-color: white;
+  color: black;
+}
+#four-sections h4{
+  font-size: 100%;
+  font-weight: 600;
+}
+#nav-coinbase{
+  color: blue;
+}
+body{
+  margin: 0%;
+}
+nav{
+  margin-bottom: 8%;
+}
