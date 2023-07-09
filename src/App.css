@@ -228,3 +228,36 @@ body{
 nav{
   margin-bottom: 8%;
 }
+
+@media (max-width: 778px){
+  #section{
+    display: block;
+  }
+  #Explore{
+    display: block;
+  }
+  #shadow-box{
+    display: block;
+  }
+  #coinbase{
+    display: block;
+  }
+  #coin-image{
+    width: 50%;
+  }
+  #three-section{
+    display: block;
+  }
+  #numbers{
+    display: block;
+  }
+  #account{
+    display: block;
+  }
+  #image{
+    display: block;
+  }
+  #four-sections{
+    display: block;
+  }
+}
