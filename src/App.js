@@ -9,7 +9,7 @@ import acct from './Image/background.webp';
 function App() {
 
   return (
-    <>
+    <div class="container-fluid">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
     <a class="navbar-brand" href="#" id='nav-coinbase'>CoinBase</a>
@@ -378,8 +378,7 @@ function App() {
 
   </section>
 </div>
-
-    </>
+</div>
   )
   
 }
